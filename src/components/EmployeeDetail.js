@@ -10,3 +10,5 @@ function EmployeeDetail(props) {
         </div>
     )
 }
+
+export default EmployeeDetail;
