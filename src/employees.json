@@ -1,5 +1,4 @@
-{
-    "results": [
+[
         {
             "name":  "Arttu Niemela",
             "location": 9867,
@@ -213,5 +212,4 @@
             "picture":  "https://randomuser.me/api/portraits/women/91.jpg",
             "occupation": "intern"
         }
-    ]
-}
+]
