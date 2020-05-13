@@ -5,7 +5,7 @@ import Col from "./Col";
 import Card from "./Card";
 import SearchForm from "./SearchForm";
 import EmployeeDetail from "./EmployeeDetail";
-import API from "../utils/API";
+import API from "./utils/API";
 
 class EmployeeContainer extends Component{
     state={
@@ -37,13 +37,14 @@ class EmployeeContainer extends Component{
             <Container>
                 <Row>
                     <Col size="md-8">
-                        <Card heading ={this.state.result.Title || "Search for an Employee to Begin"}>
+                        <Card heading ={this.state.result.name || "Search for an Employee to Begin"}>
                             <EmployeeDetail
-                            title={this.state.result.Title}
-                            src={this.state.result.Poster}
-                            director={this.state.result.director}
-                            genre={this.state.result.genre}
-                            released={this.state.reaultReleased}/>
+                            name={this.state.result.name}
+                            src={this.state.result.picture}
+                            city={this.state.result.city}  
+                            state = {this.state.result.state}
+                            email={this.state.result.email}
+                            username={this.state.result.login}/>
                         </Card>
                     </Col>
                     <Col size ="md-4">
