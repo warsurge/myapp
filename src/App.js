@@ -34,9 +34,9 @@ class App extends Component {
       <Wrapper>
 
         <Title>Employee List
-        <div>
+        <div className = "m-10">
             <input type="text" placeholder="Search" onChange={(e) => this.searchFilter(e.target.value)} />
-            <div className="h4 my-0 py-2">
+            <div className="h4 my-0 p-2">
               <div className="col">
                 <div className="d-inline">
                   Type Name, Username, or Occupation to Search <br />
