@@ -7,12 +7,12 @@ import employees from "./employees.json"
 
 class App extends Component {
   state = {
-    employees
+    employees,
+    name: 1,
+    username: 1,
+    sort: ""
   };
 
-  handleNameSort = (name, order) => {
-    this.setState({ employees: this.state.employees.sort((a, b) => (a.name[name] > b.name[name] ? order : -order)) })
-  }
 
   handleSort = (name, order) => {
     this.setState({ employees: this.state.employees.sort((a, b) => (a[name] > b[name] ? order : -order)) })
@@ -39,7 +39,11 @@ class App extends Component {
             <div className="h4 my-0 py-2">
               <div className="col">
                 <div className="d-inline">
-                  Type Name, Username, or Occupation to Search
+                  Type Name, Username, or Occupation to Search <br />
+                  Click Here on
+                  <a onClick={() => { this.handleSort("name", this.state.name); this.setState({ name: -this.state.name, sort: "name" }) }} style={{ cursor: 'pointer' }}> Name </a> or
+                  <a onClick={() => { this.handleSort("username", this.state.username); this.setState({ username: -this.state.username, sort: "username" }) }} style={{ cursor: 'pointer' }}> Username </a>
+                  to sort!
               </div>
               </div>
             </div>
