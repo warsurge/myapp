@@ -7,7 +7,8 @@
             "username": "ticklishwolf412",
             "phone": "02-230-785",
             "id": 1,
-            "picture": "https://randomuser.me/api/portraits/men/63.jpg"
+            "picture": "https://randomuser.me/api/portraits/men/63.jpg",
+            "occupation": "manager"
         },
         {
             "name": "Peter Nichols",
@@ -16,7 +17,8 @@
             "username": "biggorilla137",
             "phone": "061-994-9642",
             "id": 2,
-            "picture": "https://randomuser.me/api/portraits/men/90.jpg"
+            "picture": "https://randomuser.me/api/portraits/men/90.jpg",
+            "occupation": "intern"
         },
         {
             "name": "Aurélien Guerin",
@@ -25,7 +27,8 @@
             "username": "beautifulelephant378",
             "phone": "075 284 83 94",
             "id": 3,
-            "picture": "https://randomuser.me/api/portraits/men/27.jpg"
+            "picture": "https://randomuser.me/api/portraits/men/27.jpg",
+            "occupation": "salesman"
         },
         {
             "name": "Alicia König",
@@ -35,7 +38,8 @@
             "phone": "0930-6674417",
             "cell": "0176-0507316",
             "id": 4,
-            "picture": "https://randomuser.me/api/portraits/women/24.jpg"
+            "picture": "https://randomuser.me/api/portraits/women/24.jpg",
+            "occupation": "salesman"
         },
         {
             "name": "Sedef Türkdoğan",
@@ -44,7 +48,8 @@
             "username": "brownsnake724",
             "phone": "(206)-916-0133",
             "id": 5,
-            "picture": "https://randomuser.me/api/portraits/women/1.jpg"
+            "picture": "https://randomuser.me/api/portraits/women/1.jpg",
+            "occupation": "engineer"
         },
         {
             "name": "Phillip Wiesner",
@@ -54,7 +59,8 @@
             "phone": "0008-6671461",
             "cell": "0174-9178290",
             "id": 6,
-            "picture": "https://randomuser.me/api/portraits/men/38.jpg"
+            "picture": "https://randomuser.me/api/portraits/men/38.jpg",
+            "occupation": "intern"
         },
         {
             "name": "Tom Van Iperen",
@@ -64,7 +70,8 @@
             "phone": "(052)-032-1331",
             "cell": "(648)-723-9533",
             "id": 7,
-            "picture": "https://randomuser.me/api/portraits/men/79.jpg"
+            "picture": "https://randomuser.me/api/portraits/men/79.jpg",
+            "occupation": "salesman"
         },
         {
             "name": "Olivia Kristensen",
@@ -73,7 +80,8 @@
             "username": "orangebutterfly431",
             "phone": "72612539",
             "id": 8,
-            "picture": "https://randomuser.me/api/portraits/women/55.jpg"
+            "picture": "https://randomuser.me/api/portraits/women/55.jpg",
+            "occupation": "engineer"
         },
         {
             "name": "Kadir Berberoğlu",
@@ -82,7 +90,8 @@
             "username": "goldenelephant954",
             "phone": "(394)-245-6760",
             "id": 9,
-            "picture": "https://randomuser.me/api/portraits/men/26.jpg"
+            "picture": "https://randomuser.me/api/portraits/men/26.jpg",
+            "occupation": "intern"
         },
         {
             "name": "Dawn Cooper",
@@ -91,7 +100,8 @@
             "username": "redtiger132",
             "phone": "01-2114-7051",
             "id": 10,
-            "picture": "https://randomuser.me/api/portraits/women/13.jpg"
+            "picture": "https://randomuser.me/api/portraits/women/13.jpg",
+            "occupation": "engineer"
         },
         {
             "name": "Adam Brown",
@@ -100,7 +110,8 @@
             "username": "blackbutterfly719",
             "phone": "(482)-317-4199",
             "id": 11,
-            "picture": "https://randomuser.me/api/portraits/men/28.jpg"
+            "picture": "https://randomuser.me/api/portraits/men/28.jpg",
+            "occupation": "salesman"
         },
         {
             "name": "Nils Olivier",
@@ -109,7 +120,8 @@
             "username": "smallwolf618",
             "phone": "03-64-72-31-84",
             "id": 12,
-            "picture": "https://randomuser.me/api/portraits/men/99.jpg"
+            "picture": "https://randomuser.me/api/portraits/men/99.jpg",
+            "occupation": "manager"
         },
         {
             "name": "Lucas Denys",
@@ -118,7 +130,8 @@
             "username": "angryfrog947",
             "phone": "660-415-5133",
             "id": 13,
-            "picture": "https://randomuser.me/api/portraits/men/2.jpg"
+            "picture": "https://randomuser.me/api/portraits/men/2.jpg",
+            "occupation": "intern"
         },
         {
             "name": "Kübra Keseroğlu",
@@ -127,7 +140,8 @@
             "username": "lazybutterfly700",
             "phone": "(344)-791-3707",
             "id": 14,
-            "picture": "https://randomuser.me/api/portraits/women/89.jpg"
+            "picture": "https://randomuser.me/api/portraits/women/89.jpg",
+            "occupation": "engineer"
         },
         {
             "name": "Tommy Richardson",
@@ -136,7 +150,8 @@
             "username": "angrycat521",
             "phone": "(705)-969-8777",
             "id": 15,
-            "picture": "https://randomuser.me/api/portraits/men/74.jpg"
+            "picture": "https://randomuser.me/api/portraits/men/74.jpg",
+            "occupation": "salesman"
         },
         {
             "name": "Marcus Jones",
@@ -146,6 +161,7 @@
             "phone": "(217)-676-6800",
             "id": 16,
             "picture": "https://randomuser.me/api/portraits/men/13.jpg",
+            "occupation": "engineer"
         },
         {
             "name": "Soraya Picard",
@@ -154,7 +170,8 @@
             "username": "greenwolf267",
             "phone": "075 770 77 14",
             "id": 17,
-            "picture": "https://randomuser.me/api/portraits/women/65.jpg"
+            "picture": "https://randomuser.me/api/portraits/women/65.jpg",
+            "occupation": "salesman"
         },
         {
             "name": "Anna Olsen",
@@ -163,7 +180,8 @@
             "username": "purplefrog602",
             "phone": "12275542",
             "id": 18,
-            "picture": "https://randomuser.me/api/portraits/women/92.jpg"
+            "picture": "https://randomuser.me/api/portraits/women/92.jpg",
+            "occupation": "intern"
         },
         {
             "name": "Chris Carpenter",
@@ -172,7 +190,8 @@
             "username": "sadostrich972",
             "phone": "05-6376-3979",
             "id": 19,
-            "picture": "https://randomuser.me/api/portraits/men/96.jpg"
+            "picture": "https://randomuser.me/api/portraits/men/96.jpg",
+            "occupation": "engineer"
         },
         {
             "name": "Wiebke Bohne",
@@ -181,7 +200,8 @@
             "username": "organictiger628",
             "phone": "0378-5591990",
             "id": 20,
-            "picture": "https://randomuser.me/api/portraits/women/60.jpg"
+            "picture": "https://randomuser.me/api/portraits/women/60.jpg",
+            "occupation": "salesman"
         },
         {
             "name": "Irene Serrano",
@@ -190,7 +210,8 @@
             "username": "heavydog153",
             "phone": "934-441-649",
             "id": 21,
-            "picture":  "https://randomuser.me/api/portraits/women/91.jpg"
+            "picture":  "https://randomuser.me/api/portraits/women/91.jpg",
+            "occupation": "intern"
         }
     ]
 }
